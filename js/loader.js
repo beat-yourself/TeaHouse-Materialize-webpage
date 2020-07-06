@@ -2,6 +2,12 @@ $(document).ready(function(){
   $('.modal').modal();
   $('.parallax').parallax();
   $('.sidenav').sidenav();
+  $('.slider').slider({full_width: true});
+  $('.myreviews').carousal({
+    numVisible: 7,
+    shift: 55,
+    padding: 55
+  });
 });
 
 function toggleModal(){

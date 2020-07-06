@@ -1,0 +1,13 @@
+.slider .indicators .indicator-item.active {
+    background-color: #ffa726;
+}
+
+.parallax-container{
+  min-height: 280px;
+  height: auto;
+}
+
+.material-icons{
+  color: orange;
+  
+}

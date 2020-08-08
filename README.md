@@ -1,2 +1,2 @@
-# TeaHouse-MaterializeCSS
-A cool website project created while learning Materialize CSS.
+# TeaHouse
+A webpage based on Tea shop theme designed using materializeCSS with a lot of cool features like Parallax, Modals, Slider, etc.
